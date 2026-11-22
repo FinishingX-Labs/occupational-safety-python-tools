@@ -1,0 +1,1 @@
+C = conformity; NC-minor = minor non-conformity; NC-major = major non-conformity, the most severe result; OFI = opportunity for improvement, not a non-conformity; N/A = requirement not applicable. There is no numeric scale.

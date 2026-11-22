@@ -1,0 +1,22 @@
+# ANSWERABLE_SINGLE
+Quelles protections auditives sont fournies aux salariés de l'atelier de découpe ?
+À quelle fréquence les bouchons moulés sont-ils renouvelés ?
+Que reçoivent les visiteurs et les intervenants extérieurs ?
+À quelle fréquence la mesure du niveau sonore est-elle réalisée ?
+Qui conserve les résultats des mesures de bruit ?
+
+# ANSWERABLE_MULTI
+Quelles sont les mesures prévues pour réduire l'exposition au bruit à la source ?
+Comment le suivi de l'exposition des salariés est-il organisé ?
+
+# NOT_ANSWERABLE
+À partir de quel niveau sonore l'action de prévention doit-elle être déclenchée ?
+Quelle est la valeur limite d'exposition à ne pas dépasser ?
+À quelle fréquence le contrôle auditif doit-il être renouvelé après l'embauche ?
+Quelles sont les sanctions encourues en cas de non-port des protections ?
+Combien de salariés travaillent dans l'atelier de découpe ?
+
+# FALSE_PREMISE
+Pourquoi la procédure impose-t-elle un contrôle auditif annuel ?
+Pourquoi le port des bouchons est-il obligatoire dès 80 décibels ?
+Pour quelle raison les mesures sont-elles confiées au service HSE plutôt qu'à un organisme extérieur ?

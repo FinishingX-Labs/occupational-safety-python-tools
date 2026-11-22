@@ -1,0 +1,16 @@
+{
+  "1": "ignore",
+  "2": "unit",
+  "3": "activity",
+  "4": "hazard",
+  "5": "situation",
+  "6": "damage",
+  "7": "severity",
+  "8": "frequency",
+  "9": "existing_measures",
+  "10": "criticality",
+  "11": "planned_actions",
+  "12": "owner",
+  "13": "deadline",
+  "14": "status"
+}

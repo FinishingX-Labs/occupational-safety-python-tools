@@ -1,0 +1,40 @@
+FICTIONAL REGULATORY EXTRACT - FOR TESTING ONLY
+
+This text is not a real regulation. It was written to test the tool against a
+known answer key. It imitates the drafting style of European occupational
+safety provisions, but no provision below should ever be cited as law.
+
+--------------------------------------------------------------------------
+
+Article 12 - Work at height
+
+1. The employer shall organise work so that tasks which can be carried out
+from the ground are not carried out at height.
+
+2. Where work at height cannot be avoided, collective protective equipment,
+in particular guardrails and safety nets, shall be given priority over
+personal fall-arrest equipment.
+
+3. Guardrails shall be at least 1.00 metre high, fitted with an intermediate
+rail and with a toe board of at least 0.15 metre.
+
+4. Personal fall-arrest equipment shall be inspected by a competent person at
+least once every twelve months. Each inspection shall be recorded in writing.
+
+5. Work at height shall not be carried out by a worker working alone. A second
+worker shall be present for the duration of the work.
+
+6. Workers shall receive training before carrying out work at height for the
+first time. This training shall be renewed at least every three years.
+
+7. A written work permit shall be issued before any work carried out at a
+height exceeding three metres.
+
+8. Work at height shall be suspended where the wind speed exceeds 50 km/h.
+
+9. Before work begins, a rescue plan shall be established allowing a worker
+suspended in a harness to be recovered within fifteen minutes.
+
+10. Ladders and stepladders may be used as a workstation only for
+short-duration light work.
+
